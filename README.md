@@ -1,3 +1,2 @@
-# Collection Minting Site Starter on EVM chain
+# Opensource DAO project
 
-NFT minting site starter.
