@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap");
+@import "./variable.scss";
+
+* {
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Comfortaa", cursive;
+}
+
+html,
+body {
+  width: 100%;
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  background-color: $black;
+}
+
+#root {
+  width: 100%;
+}
+
+.container {
+  width: 90%;
+  max-width: 1024px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
